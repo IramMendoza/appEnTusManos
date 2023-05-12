@@ -1,4 +1,3 @@
-import React from 'react'
 import PerritologoBlanco from '../../assets/PerritologoBlanco.png'
 
 const LogoMenu = () => {

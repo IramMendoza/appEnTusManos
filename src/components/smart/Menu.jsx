@@ -1,5 +1,5 @@
 import Logo from '../dumb/LogoMenu'
-import CardIcon from '../dumb/CardIcon'
+import CardIcon from '../Dumb/CardIcon'
 import RegisterIcon from '../../assets/registerWhite.png'
 import Patients from '../../assets/feetWhite.png'
 
