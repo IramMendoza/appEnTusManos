@@ -1,0 +1,8 @@
+.window {
+    height: 47rem;
+    width: 67rem;
+    border-radius: 50px;
+    background: linear-gradient(315deg, #5ab79f, #4c9a86);
+    box-shadow:  -19px -19px 38px #3c7b6b,
+                 19px 19px 38px #6cdbbf;
+}

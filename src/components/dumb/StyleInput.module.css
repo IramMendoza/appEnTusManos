@@ -1,0 +1,9 @@
+.input {
+
+    height: 3rem;
+    width: 12rem;
+    border-radius: 50px;
+    background: linear-gradient(315deg, #c9d8d5, #9faca8);
+    box-shadow:  -14px -14px 28px #3b7767,
+             14px 14px 28px #5dbda5;
+}

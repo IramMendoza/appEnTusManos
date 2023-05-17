@@ -1,0 +1,6 @@
+.icon {
+    border-radius: 50%;
+    background: linear-gradient(315deg, #5ab79f, #4c9a86);
+    box-shadow:  -5px -5px 10px #4b9885,
+                 5px 5px 10px #5dbea5;
+}

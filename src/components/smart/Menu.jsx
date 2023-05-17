@@ -2,11 +2,12 @@ import Logo from '../dumb/LogoMenu'
 import CardIcon from '../Dumb/CardIcon'
 import RegisterIcon from '../../assets/registerWhite.png'
 import Patients from '../../assets/feetWhite.png'
+import StyleMenu from './StyleMenu.module.css'
 
 const Menu = () => {
   return (
-    <div className=' h-[45rem] w-[8rem] mt-12 absolute'>
-      <div className=' relative h-full w-full flex flex-col'>
+    <div className=' mt-6 ml-[3rem] absolute'>
+      <div className={StyleMenu.menu}>
           <Logo/>
           <CardIcon icon={RegisterIcon}/>
           <CardIcon icon={Patients}/>

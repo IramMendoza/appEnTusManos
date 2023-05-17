@@ -2,9 +2,9 @@ import PerritologoBlanco from '../../assets/PerritologoBlanco.png'
 
 const LogoMenu = () => {
   return (
-    <div className=' w-[6rem] h-[8rem] ml-4'>
+    <div className=' w-full h-[8rem]'>
         <div className=' rounded-3xl'>
-            <img src={PerritologoBlanco} className=' scale-[0.5]'/>
+            <img src={PerritologoBlanco} className=' scale-[0.37]'/>
         </div>
     </div>
   )
